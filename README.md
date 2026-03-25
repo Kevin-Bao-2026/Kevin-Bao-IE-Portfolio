@@ -3,7 +3,7 @@
 Welcome to my portfolio! I am an Industrial Engineering student with experience in process optimization, lean manufacturing, and data analysis.
 
 ## 📂 Portfolio Contents
-* **[Resume](https://kevin-bao-2026.github.io/Kevin-Bao-IE-Portfolio/tree/main/Resume):
+* **[Resume](https://github.com/Kevin-Bao-2026/Kevin-Bao-IE-Portfolio/tree/main/Resume):** Resume IE Manufacturing Engineer
 * **[Work Samples](https://github.com/Kevin-Bao-2026/Kevin-Bao-IE-Portfolio/tree/main/Work%20Samples):** Technical projects including the SEL Crate Redesign.
 * **[Certifications](https://github.com/Kevin-Bao-2026/Kevin-Bao-IE-Portfolio/tree/main/Certificates):** Lean Green Belt and Six Sigma credentials.
 * **[Recommendations](https://github.com/Kevin-Bao-2026/Kevin-Bao-IE-Portfolio/tree/main/Rec%20Letters):** Letters from Moog and RJ Olmen.
