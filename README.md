@@ -7,8 +7,8 @@ Welcome to my portfolio! I am an Industrial Engineering student with experience 
 * **[Work Samples](https://github.com/Kevin-Bao-2026/Kevin-Bao-IE-Portfolio/tree/main/Work%20Samples):** Technical projects including the SEL Crate Redesign.
 * **[Certifications](https://github.com/Kevin-Bao-2026/Kevin-Bao-IE-Portfolio/tree/main/Certificates):** Lean Green Belt and Six Sigma credentials.
 * **[Recommendations](https://github.com/Kevin-Bao-2026/Kevin-Bao-IE-Portfolio/tree/main/Rec%20Letters):** Letters from Moog and RJ Olmen.
-
-## 🛠️ Skills
+* **[Photos](https://github.com/Kevin-Bao-2026/Kevin-Bao-IE-Portfolio/tree/main/Photos):** Photographic Records.
+  
 Industrial Engineering & Operations: 
 Process Optimization, Time Studies, Capacity Analysis, Standard Work (SOP)
 Lean and Six Sigma (Green Belt): Kaizen, 5S, VSM, Waste Reduction (Muda)
