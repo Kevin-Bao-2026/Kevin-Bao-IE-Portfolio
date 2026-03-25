@@ -1,5 +1,3 @@
-# Kevin Bao | Industrial Engineer | Portfolio
-
 Welcome to my portfolio! I am an Industrial Engineering student with experience in process optimization, lean manufacturing, and Cross Functional Collaboration.
 
 ## 📂 Portfolio Contents
@@ -21,7 +19,6 @@ Data Analysis: Python, R, SQL (Statistical Modeling, Process Data Analysis)
 Autodesk AutoCAD Industrial Suite 2D/3D CAD Drafting
 Microsoft Office 365
 Performance Metrics & KPI Development
-
 
 Soft skills:
 Stakeholder & Cross-Functional Communication (Conflict Resolution, B2B/B2C)
