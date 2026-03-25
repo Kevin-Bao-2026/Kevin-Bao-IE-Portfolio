@@ -1,6 +1,6 @@
 # Kevin Bao | Industrial Engineering Portfolio
 
-Welcome to my portfolio! I am an Industrial Engineering student with experience in process optimization, lean manufacturing, and data analysis.
+Welcome to my portfolio! I am an Industrial Engineering student with experience in process optimization, lean manufacturing, and Cross Functional Collaboration.
 
 ## 📂 Portfolio Contents
 * **[Resume](https://github.com/Kevin-Bao-2026/Kevin-Bao-IE-Portfolio/tree/main/Resume):** Resume IE Manufacturing Engineer
