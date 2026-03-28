@@ -8,11 +8,11 @@ Welcome to my portfolio! I am Kevin Bao, an Industrial Engineering student with 
 * **[Photos](https://github.com/Kevin-Bao-2026/Kevin-Bao-IE-Portfolio/tree/main/Photos):** Photographic Records.
 
 
-##🚀Statement: 
+🚀Statement: 
 A driven Industrial Engineering Grad, May 2026. Proven track record of continuous development through inquisition and the desire to optimize. Possess ample experience from 3 separate corporate entities in the manufacturing field. Developed dual expertise in technical applications and cross-functional collaboration. Specializing in leveraging skills in Lean manufacturing and Six Sigma process improvement to eliminate waste, bridge the gap between engineering theories and site execution.
 
 
-##📜Skill Sets:
+📜Skill Sets:
 
 Industrial Engineering & Operations: 
 Process Optimization, Time Studies, Capacity Analysis, Standard Work (SOP)
