@@ -2,7 +2,7 @@ Welcome to my portfolio! I am Kevin Bao, an Industrial Engineering student with 
 
 ## 📂 Portfolio Contents
 * **[Resume](https://github.com/Kevin-Bao-2026/Kevin-Bao-IE-Portfolio/tree/main/Resume):** Resume IE Manufacturing Engineer
-* **[Work Samples](https://github.com/Kevin-Bao-2026/Kevin-Bao-IE-Portfolio/tree/main/Work%20Samples):** Professional work samples from RJO and SEL. Full work sample not available due to restrictions. 
+* **[Work Samples](https://github.com/Kevin-Bao-2026/Kevin-Bao-IE-Portfolio/tree/main/Work%20Samples):** Professional work samples from RJO and SEL, etc. Full work sample not available due to restrictions.  
 * **[Certifications](https://github.com/Kevin-Bao-2026/Kevin-Bao-IE-Portfolio/tree/main/Certificates):** Lean Green Belt and Six Sigma Green Belt credentials.
 * **[Recommendations](https://github.com/Kevin-Bao-2026/Kevin-Bao-IE-Portfolio/tree/main/Rec%20Letters):** Letters from Former Employers at Moog and RJ Olmen.
 * **[Photos](https://github.com/Kevin-Bao-2026/Kevin-Bao-IE-Portfolio/tree/main/Photos):** Photographic Records.
@@ -15,18 +15,20 @@ A driven Industrial Engineering Grad, May 2026. Proven track record of continuou
 📜Skill Sets:
 
 Industrial Engineering & Operations: 
-Process Optimization, Time Studies, Capacity Analysis, Standard Work (SOP)
+Process Optimization, Time Studies, Capacity Analysis, Standard Operating Procedures (SOP)
 Lean and Six Sigma (Green Belt): Kaizen, 5S, VSM, Waste Reduction (Muda)
-Problem Solving & Process Analysis: RCA (5 Whys, Fishbone), Bottleneck Analysis, Risk Assessment
+Problem Solving & Process Analysis: RCA (5 Whys, Fishbone), Bottleneck Analysis, Risk Assessment, Job Hazard Analysis (JHAs)
  
 Systems: 
 Quality & Process Control: SPC, SIPOC, Quality Systems
-ERP systems, SAP Manufacturing (DMC cloud-based manufacturing execution system)
-Data Analysis: Python, R, SQL (Statistical Modeling, Process Data Analysis)
-Autodesk AutoCAD Industrial Suite 2D/3D CAD Drafting
-Microsoft Office 365
+ERP systems development, SAP Manufacturing (Cloud-based manufacturing execution system)
+Data Analysis: Python, Matlab, C, R, SQL (Statistical Modeling, Process Data Analysis)
+Autodesk AutoCAD Industrial Suite 2D/3D Drafting, SolidWorks 2D/3D
+CNC Machining (G-code)
+Technical Drawings interpretation, design, estimation, and coordination 
 Performance Metrics & KPI Development
+Microsoft Office 365
 
 Soft skills:
-Stakeholder & Cross-Functional Communication (Conflict Resolution, B2B/B2C)
-Project Management, Process Implementation. Continuous Improvement Execution
+Stakeholder & Cross-Functional Communication (B2B/B2C)
+Project Management, Process Implementation, Continuous Improvement Execution
