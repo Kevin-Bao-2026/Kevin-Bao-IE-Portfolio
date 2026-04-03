@@ -9,7 +9,7 @@ Welcome to my portfolio! I am Kevin Bao, an Industrial Engineering student with 
 
 
 🚀Statement: 
-A driven Industrial Engineering Grad, May 2026. Proven track record of continuous development through inquisition and the desire to optimize. Possess ample experience from 3 separate corporate entities in the manufacturing field. Developed dual expertise in technical applications and cross-functional collaboration. Specializing in leveraging skills in Lean manufacturing and Six Sigma process improvement to eliminate waste, bridge the gap between engineering theories and site execution.
+A driven Industrial Engineering Grad, May 2026. Proven track record of continuous development through inquisition and the desire to optimize. Possess ample experience from 3 separate corporate entities in the manufacturing field. Developed dual expertise in technical applications and cross-functional collaboration. Specializing in leveraging skills in Lean manufacturing and Six Sigma process improvement to enhance processes, bridge the gap between engineering theories and site execution.
 
 
 📜Skill Sets:
@@ -31,4 +31,5 @@ Microsoft Office 365  <br>
 
 Soft skills:  <br>
 Stakeholder & Cross-Functional Communication (B2B/B2C) <br>
-Project Management, Process Implementation, Continuous Improvement Execution <br>
+Proposal Writing, Request for Information (RFIs)
+Project Management, Process Implementation <br>
