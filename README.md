@@ -14,21 +14,21 @@ A driven Industrial Engineering Grad, May 2026. Proven track record of continuou
 
 📜Skill Sets:
 
-Industrial Engineering & Operations: 
-Process Optimization, Time Studies, Capacity Analysis, Standard Operating Procedures (SOP)
-Lean and Six Sigma (Green Belt): Kaizen, 5S, VSM, Waste Reduction (Muda)
-Problem Solving & Process Analysis: RCA (5 Whys, Fishbone), Bottleneck Analysis, Risk Assessment, Job Hazard Analysis (JHAs)
+Industrial Engineering & Operations: <br>
+Process Optimization, Time Studies, Capacity Analysis, Standard Operating Procedures (SOP)  <br>
+Lean and Six Sigma (Green Belt): Kaizen, 5S, VSM, Waste Reduction (Muda)  <br>
+Problem Solving & Process Analysis: RCA (5 Whys, Fishbone), Bottleneck Analysis, Risk Assessment, Job Hazard Analysis (JHAs)  <br>
  
 Systems: 
-Quality & Process Control: SPC, SIPOC, Quality Systems
-ERP systems development, SAP Manufacturing (Cloud-based manufacturing execution system)
-Data Analysis: Python, Matlab, C, R, SQL (Statistical Modeling, Process Data Analysis)
-Autodesk AutoCAD Industrial Suite 2D/3D Drafting, SolidWorks 2D/3D
-CNC Machining (G-code)
-Technical Drawings interpretation, design, estimation, and coordination 
-Performance Metrics & KPI Development
-Microsoft Office 365
+Quality & Process Control: SPC, SIPOC, Quality Systems  <br>
+ERP systems development, SAP Manufacturing (Cloud-based manufacturing execution system)  <br>
+Data Analysis: Python, Matlab, C, R, SQL (Statistical Modeling, Process Data Analysis)  <br>
+Autodesk AutoCAD Industrial Suite 2D/3D Drafting, SolidWorks 2D/3D  <br>
+CNC Machining (G-code) <br>
+Technical Drawings interpretation, design, estimation, and coordination  <br>
+Performance Metrics & KPI Development <br>
+Microsoft Office 365  <br>
 
-Soft skills:
-Stakeholder & Cross-Functional Communication (B2B/B2C)
-Project Management, Process Implementation, Continuous Improvement Execution
+Soft skills:  <br>
+Stakeholder & Cross-Functional Communication (B2B/B2C) <br>
+Project Management, Process Implementation, Continuous Improvement Execution <br>
