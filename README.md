@@ -31,5 +31,5 @@ Microsoft Office 365  <br>
 
 Soft skills:  <br>
 Stakeholder & Cross-Functional Communication (B2B/B2C) <br>
-Proposal Writing, Request for Information (RFIs)
+Proposal Writing, Request for Information (RFIs) <br>
 Project Management, Process Implementation <br>
