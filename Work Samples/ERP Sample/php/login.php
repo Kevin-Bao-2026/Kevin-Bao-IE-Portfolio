@@ -1,7 +1,6 @@
 <?php
 
-// DO NOT FUCKING EDIT THIS IT IS PERFECT (but now slightly improved 💅)
-
+// DO NOT EDIT THIS IS PERFECT 
 session_start(); // ← You need this at the top to use $_SESSION
 
 $servername = "mydb.ics.purdue.edu";
