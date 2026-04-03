@@ -4,7 +4,7 @@ Welcome to my portfolio! I am Kevin Bao, an Industrial Engineering student with 
 * **[Resume](https://github.com/Kevin-Bao-2026/Kevin-Bao-IE-Portfolio/tree/main/Resume):** Resume IE Manufacturing Engineer
 * **[Work Samples](https://github.com/Kevin-Bao-2026/Kevin-Bao-IE-Portfolio/tree/main/Work%20Samples):** Professional work samples from RJO and SEL, etc. Full work sample not available due to restrictions.  
 * **[Certifications](https://github.com/Kevin-Bao-2026/Kevin-Bao-IE-Portfolio/tree/main/Certificates):** Lean Green Belt and Six Sigma Green Belt credentials.
-* **[Recommendations](https://github.com/Kevin-Bao-2026/Kevin-Bao-IE-Portfolio/tree/main/Rec%20Letters):** Letters from Former Employers at Moog and RJ Olmen.
+* **[Recommendations](https://github.com/Kevin-Bao-2026/Kevin-Bao-IE-Portfolio/tree/main/Rec%20Letters):** Letters from former employers at Moog and RJ Olmen.
 * **[Photos](https://github.com/Kevin-Bao-2026/Kevin-Bao-IE-Portfolio/tree/main/Photos):** Photographic Records.
 
 
